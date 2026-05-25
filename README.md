@@ -27,19 +27,19 @@ O script:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Paulouuul/gerador-de-cpf-python.git
 ```
 
 ### 2. Acesse a pasta do projeto
 
 ```bash
-cd seu-repositorio
+cd gerador-de-cpf-python
 ```
 
 ### 3. Execute o script
 
 ```bash
-python main.py
+python geradorcpf.py
 ```
 
 ---
@@ -78,8 +78,8 @@ O cálculo segue a regra oficial da Receita Federal utilizando multiplicação p
 ## 📂 Estrutura do projeto
 
 ```bash
-📦 gerador-cpf
- ┣ 📄 main.py
+📦 gerador-de-cpf-python
+ ┣ 📄 geradorcpf.py
  ┗ 📄 README.md
 ```
 
